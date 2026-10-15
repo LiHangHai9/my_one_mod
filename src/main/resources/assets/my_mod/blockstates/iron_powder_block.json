@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": { "model": "my_mod:block/iron_powder_block" }
+  }
+}

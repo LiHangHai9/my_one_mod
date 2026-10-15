@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "down": "minecraft:block/iron_block",
+    "up": "my_mod:block/advanced_crafting_table_up",
+    "north": "my_mod:block/advanced_crafting_table_front",
+    "east": "my_mod:block/advanced_crafting_table_front",
+    "south": "my_mod:block/advanced_crafting_table_front",
+    "west": "my_mod:block/advanced_crafting_table_front",
+    "particle": "my_mod:block/advanced_crafting_table_front"
+  }
+}

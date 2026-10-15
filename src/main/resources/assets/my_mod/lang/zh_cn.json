@@ -1,0 +1,12 @@
+{
+  "block.my_mod.advanced_crafting_table": "高级工作台",
+  "block.my_mod.iron_powder_block": "铁粉块",
+  "item.my_mod.advanced_crafting_table": "高级工作台",
+  "item.my_mod.iron_chisel": "铁凿",
+  "item.my_mod.iron_powder": "铁粉",
+  "item.my_mod.iron_powder_block": "铁粉块",
+  "itemGroup.my_mod.my_tab": "我的模组",
+  "easter_eggs.my_mod.config_max": "666，你居然还敢改配置文件，搁这作弊是吧？",
+  "easter_eggs.my_mod.config_min": "这么勇，开困难模式。",
+  "easter_eggs.my_mod.config_max_max": "666，还敢改配置文件，还这么贪心，大于 64 了不生效，你知不知道？"
+}

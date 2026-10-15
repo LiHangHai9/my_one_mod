@@ -1,0 +1,12 @@
+{
+  "block.my_mod.advanced_crafting_table": "Advanced Crafting Table",
+  "block.my_mod.iron_powder_block": "Iron Powder Block",
+  "item.my_mod.advanced_crafting_table": "Advanced Crafting Table",
+  "item.my_mod.iron_chisel": "Iron Chisel",
+  "item.my_mod.iron_powder": "Iron Powder",
+  "item.my_mod.iron_powder_block": "Iron Powder Block",
+  "itemGroup.my_mod.my_tab": "My Mod",
+  "easter_eggs.my_mod.config_max": "666, you actually dared to edit the config file. Cheating huh?",
+  "easter_eggs.my_mod.config_min": "Bold move, turning on hard mode.",
+  "easter_eggs.my_mod.config_max_max": "Nice, you even edited the config file and got so greedy. Values over 64 won't take effect."
+}

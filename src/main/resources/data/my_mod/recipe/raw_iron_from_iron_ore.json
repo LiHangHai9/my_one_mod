@@ -1,0 +1,11 @@
+{
+  "type": "mod_one",
+  "item": [
+    "minecraft:iron_ore"
+  ],
+  "tool_tier": "iron",
+  "result": {
+    "id": "raw_iron",
+    "count": 2
+  }
+}

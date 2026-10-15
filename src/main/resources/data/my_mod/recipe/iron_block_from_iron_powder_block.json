@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "my_mod:iron_powder_block"
+  },
+  "result": {
+    "id": "minecraft:iron_block"
+  },
+  "experience": 7,
+  "cookingtime": 1000
+}
